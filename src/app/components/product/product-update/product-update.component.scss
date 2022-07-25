@@ -9,11 +9,10 @@
     margin-bottom: 30px;
   }
 
-  
   form {
     display: flex;
     flex-direction: column;
-
+  
     mat-form-field {
       width: 300px;
     }
@@ -24,4 +23,3 @@
     width: 100px;
   }
 }
-
